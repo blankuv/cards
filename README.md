@@ -1,2 +1,2 @@
-# gengar
+# card
 sla, tava entediado
