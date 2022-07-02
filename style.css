@@ -27,22 +27,28 @@ img:not(:hover) {
 }
 
 h1 {
+    font-size: 32px;
     text-transform: uppercase;
-    color: #fff;
+    color: #fc0324;
 }
 
-h6:hover {
-    color: #fff;
+h6, h5 {
+    font-size: 16px;
+}
+
+h5:hover {
+    color: #fc0324;
     transition: 0.5s;
 }
 
-h6:not(:hover) {
+h5:not(:hover) {
     transition: 0.5s;
 }
 
 a:hover {
     opacity: 50%;
     transition: 0.5s;
+    color: #fc0324;
 }
 
 a:not(:hover) {
