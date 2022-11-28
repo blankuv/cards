@@ -11,9 +11,9 @@
 
 img {
     height: auto;
-    width: 400px;
+    width: 300px;
     max-width: 100%;
-    border-radius: 10%;
+    border-radius: 50%;
 }
 
 img:hover {
