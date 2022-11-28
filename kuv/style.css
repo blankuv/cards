@@ -90,6 +90,10 @@ a:not(:hover) {
       blink-caret .75s step-end infinite;
   }
   
+  #heart:hover {
+    color: red;
+}
+
 @keyframes typing {
     from { width: 0 }
     to { width: 100% }
