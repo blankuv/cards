@@ -1,2 +1,2 @@
 # card
-sla, tava entediado
+Estava entediado e fiz um vanilla para quem eu conheço
